@@ -25,5 +25,5 @@ SCREENSHOT
 The screenshot below shows the output of the project:
 
 - *Header*: Displays "Welcome to Greeting Cards."  
-  ![Header Screenshot](./images/screenshot.png)
+  ![Header Screenshot](./Images/screenshot.png)
 
